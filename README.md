@@ -6,6 +6,8 @@ It also applies **time series analysis** to forecast future sales.
 
 The dashboard is designed to be **interactive, visually appealing, and business-focused**, supporting **data-driven decision making**.
 
+![Dashboard](https://github.com/kshivayadav/Super-Store-Sales-Analysis-/blob/5df670a2adae29fc3037567898f4b7b443c66ae5/Super%20Store%20Sale%20Dashboard.png)
+
 
 ## 🎯 Objective
 To contribute to business success by leveraging **data analysis techniques**, focusing on **time series forecasting** and dashboard creation to provide:  
